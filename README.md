@@ -13,3 +13,10 @@ Download the **reset.min.css** file and paste in your project location.
 ```
 <link type="text/css" rel="stylesheet" href="reset.min.css">
 ```
+
+## Effective and influential people
+
+- David Wells
+- Joe Morgan
+- Gabriel Araujo
+- Max Base
