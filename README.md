@@ -20,3 +20,5 @@ Download the **reset.min.css** file and paste in your project location.
 - Joe Morgan
 - Gabriel Araujo
 - Max Base
+
+Please make any **changes** and **submit** that, then add your name.
